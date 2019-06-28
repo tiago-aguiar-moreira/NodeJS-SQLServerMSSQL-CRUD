@@ -1,0 +1,11 @@
+Com o arquivo de configurações criado, vá no console novamente, na pasta do projeto e digite o seguinte comando para instalar a extensão mssql, que permite usar Node com SQL Server:
+
+nodesqlserver> npm install -S mssql
+
+A flag “-S”diz que é pra salvar essa dependência no arquivo packages.json. Se você abrir o arquivo vai ver que tem coisa nova por lá.
+
+
+
+> Referências
+
+https://www.luiztools.com.br/post/tutorial-node-js-com-ms-sql-server/
